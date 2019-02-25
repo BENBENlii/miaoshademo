@@ -1,21 +1,17 @@
-package com.miaoshademo.web;
+package com.miaoshademo.service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.annotation.ImportResource;
 
 /**
  * Hello world!
  *
  */
-@SpringBootApplication(scanBasePackages = "com.miaoshademo.web")
-@ImportResource(locations = {"classpath*:applicationDubbo.xml"})
+@SpringBootApplication
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
-
         SpringApplication.run(App.class);
     }
 }
