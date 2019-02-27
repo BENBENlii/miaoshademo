@@ -1,44 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f630e95-6711-43a9-acf3-accace3b404c" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/miaoshademo-interface/src/main/java/com/miaoshademo/service/request/UserRequestDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/miaoshademo-interface/src/main/java/com/miaoshademo/service/response/UserResponseDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/miaoshademo-interface/src/main/java/com/miaoshademo/service/service/UserSoaService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/miaoshademo-server/src/main/java/com/miaoshademo/server/export/UserExportService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/miaoshademo-server/src/main/java/com/miaoshademo/server/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/miaoshademo-server/src/main/java/com/miaoshademo/server/service/serviceImpl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/miaoshademo-server/src/main/resources/mybatis-generator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/miaoshademo-web/src/main/java/com/miaoshademo/web/common/BizException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/miaoshademo-web/src/main/java/com/miaoshademo/web/common/CommonResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/miaoshademo-web/src/main/java/com/miaoshademo/web/common/ErrorCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/miaoshademo-web/src/main/java/com/miaoshademo/web/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/miaoshademo-web/src/main/java/com/miaoshademo/web/request/BaseUserRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/miaoshademo-web/src/main/java/com/miaoshademo/web/response/UserResponseVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/miaoshademo-web/src/main/java/com/miaoshademo/web/util/BeanMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miaoshademo-interface/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/miaoshademo-interface/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miaoshademo-interface/src/main/java/com/miaoshademo/service/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miaoshademo-interface/src/test/java/com/miaoshademo/interface/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/miaoshademo-interface/src/test/java/com/miaoshademo/interface/MiaoShaDemoServiceInterfaceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miaoshademo-interface/target/test-classes/com/miaoshademo/AppTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miaoshademo-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/miaoshademo-server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miaoshademo-server/src/main/java/com/miaoshademo/server/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/miaoshademo-server/src/main/java/com/miaoshademo/server/MiaoShaDemoServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miaoshademo-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/miaoshademo-server/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miaoshademo-server/src/main/resources/applicationDubbo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/miaoshademo-server/src/main/resources/applicationDubbo.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miaoshademo-server/src/test/java/com/miaoshademo/server/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/miaoshademo-server/src/test/java/com/miaoshademo/server/MiaoShaDemoServiceInterfaceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miaoshademo-server/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/miaoshademo-server/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miaoshademo-server/target/classes/applicationDubbo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/miaoshademo-server/target/classes/applicationDubbo.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miaoshademo-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/miaoshademo-web/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miaoshademo-web/src/main/java/com/miaoshademo/web/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/miaoshademo-web/src/main/java/com/miaoshademo/web/MiaoShaDemoWeb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miaoshademo-web/src/main/java/com/miaoshademo/web/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/miaoshademo-web/src/main/java/com/miaoshademo/web/controller/TestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miaoshademo-web/src/main/resources/applicationDubbo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/miaoshademo-web/src/main/resources/applicationDubbo.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miaoshademo-web/src/test/java/com/miaoshademo/web/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/miaoshademo-web/src/test/java/com/miaoshademo/web/MiaoShaDemoServiceInterfaceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miaoshademo-web/target/classes/applicationDubbo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/miaoshademo-web/target/classes/applicationDubbo.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miaoshademo-web/target/classes/com/miaoshademo/web/App.class" beforeDir="false" />
-    </list>
+    <list default="true" id="5f630e95-6711-43a9-acf3-accace3b404c" name="默认" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/miaoshademo-interface/target/" />
@@ -70,8 +33,8 @@
           <entry key="gitignore" value="4" />
           <entry key="java" value="87" />
           <entry key="pom" value="7" />
-          <entry key="properties" value="10" />
-          <entry key="xml" value="52" />
+          <entry key="properties" value="11" />
+          <entry key="xml" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -79,8 +42,8 @@
           <entry key="CLASS" value="9" />
           <entry key="Git file" value="4" />
           <entry key="JAVA" value="87" />
-          <entry key="Properties" value="10" />
-          <entry key="XML" value="60" />
+          <entry key="Properties" value="11" />
+          <entry key="XML" value="61" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -107,19 +70,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/miaoshademo-web/src/main/java/com/miaoshademo/web/request/BaseUserRequest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/miaoshademo-server/src/main/java/com/miaoshademo/server/service/serviceImpl/UserServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
+            <state relative-caret-position="60">
               <caret line="32" column="8" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -128,13 +82,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/miaoshademo-server/src/main/resources/applicationDubbo.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="244">
               <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/miaoshademo-web/src/main/resources/applicationDubbo.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/miaoshademo-web/src/main/resources/dubbo.properties">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -154,15 +122,6 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/miaoshademo-server/src/main/java/com/miaoshademo/server/mapper/UserPasswordMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -579,6 +538,13 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="miaoshademo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miaoshademo" type="462c0819:PsiDirectoryNode" />
+              <item name="miaoshademo-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -822,12 +788,12 @@
       <workItem from="1550714580092" duration="28612000" />
       <workItem from="1551060610725" duration="22347000" />
       <workItem from="1551146654114" duration="20967000" />
-      <workItem from="1551233559312" duration="14476000" />
+      <workItem from="1551233559312" duration="15394000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96093000" />
+    <option name="totallyTimeSpent" value="97011000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -847,7 +813,7 @@
       <window_info id="设计器" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" visible="true" weight="1.0" />
+      <window_info anchor="bottom" id="Run Dashboard" weight="0.80559874" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3281493" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.7729393" />
@@ -858,7 +824,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Spring" order="8" weight="0.3281493" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3281493" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3281493" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.5858156" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.3281493" />
       <window_info anchor="bottom" id="调试" order="13" sideWeight="0.49932975" weight="0.9844479" />
@@ -913,9 +879,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/miaoshademo-web/src/main/resources/dubbo.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/miaoshademo-server/src/main/java/com/miaoshademo/server/DemoProvider.java" />
     <entry file="file://$PROJECT_DIR$/miaoshademo-interface/src/main/java/com/miaoshademo/service/DemoInterface.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.2.RELEASE/spring-beans-4.3.2.RELEASE.jar!/org/springframework/beans/factory/annotation/Autowired.class">
@@ -1132,13 +1095,6 @@
         <state relative-caret-position="-3234" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/miaoshademo-web/src/main/resources/applicationDubbo.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.13/mysql-connector-java-8.0.13.jar!/com/mysql/cj/jdbc/Driver.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -1229,16 +1185,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/miaoshademo-server/src/main/java/com/miaoshademo/server/service/serviceImpl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="32" column="8" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/miaoshademo-server/src/main/java/com/miaoshademo/server/mapper/UserInfoMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -1258,8 +1204,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/miaoshademo-server/src/main/resources/applicationDubbo.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="244">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/miaoshademo-web/src/main/resources/dubbo.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/miaoshademo-web/src/main/resources/applicationDubbo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/miaoshademo-server/src/main/java/com/miaoshademo/server/service/serviceImpl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="32" column="8" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
