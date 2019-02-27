@@ -18,9 +18,9 @@
     <dubbo:consumer check="false" />
 
     <!-- 声明需要暴露的服务接口 -->
-    <dubbo:service interface="com.miaoshademo.service.DemoService" ref="demoService" timeout="1200000"/>
+    <dubbo:service interface="com.miaoshademo.service.DemoService" ref="demoServiceImpl" timeout="1200000"/>
+    <dubbo:service interface="com.miaoshademo.service.service.UserSoaService" ref="userExportService" timeout="1200000"/>
 
-    <!-- 接口实现类-->
-    <bean id="demoService" class="com.miaoshademo.server.DemoServiceImpl"/>
+
 
 </beans>

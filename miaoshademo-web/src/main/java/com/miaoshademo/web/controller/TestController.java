@@ -1,6 +1,7 @@
 package com.miaoshademo.web.controller;
 
 import com.miaoshademo.service.DemoService;
+import com.miaoshademo.web.common.CommonResponse;
 import com.miaoshademo.web.request.TestRequest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
@@ -15,8 +16,10 @@ public class TestController {
     @Autowired
     private DemoService demoService;
     @PostMapping("/test")
-    public String test(@RequestBody TestRequest request){
+    public CommonResponse<String> test(@RequestBody TestRequest request){
+        CommonResponse<String> response = new CommonResponse<String>();
         String str = demoService.test()+request.getString();
-        return str;
+        response.setData(str);
+        return response;
     }
 }

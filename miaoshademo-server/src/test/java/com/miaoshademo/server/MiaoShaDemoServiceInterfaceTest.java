@@ -1,4 +1,4 @@
-package com.miaoshademo;
+package com.miaoshademo.server;
 
 import static org.junit.Assert.assertTrue;
 
@@ -7,7 +7,7 @@ import org.junit.Test;
 /**
  * Unit test for simple App.
  */
-public class AppTest 
+public class MiaoShaDemoServiceInterfaceTest
 {
     /**
      * Rigorous Test :-)

@@ -1,4 +1,4 @@
-package com.miaoshademo.server;
+package com.miaoshademo.web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -8,12 +8,14 @@ import org.springframework.context.annotation.ImportResource;
  * Hello world!
  *
  */
-@SpringBootApplication
+@SpringBootApplication(scanBasePackages = "com.miaoshademo.web")
 @ImportResource(locations = {"classpath*:applicationDubbo.xml"})
-public class App 
+public class MiaoShaDemoWeb
 {
     public static void main( String[] args )
     {
-        SpringApplication.run(App.class);
+        System.out.println( "Hello World!" );
+
+        SpringApplication.run(MiaoShaDemoWeb.class);
     }
 }

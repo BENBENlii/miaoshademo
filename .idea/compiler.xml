@@ -11,5 +11,8 @@
         <module name="miaoshademoweb" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mybatisgenerator" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
