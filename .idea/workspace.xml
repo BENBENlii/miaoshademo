@@ -71,6 +71,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/miaoshademo-server/src/main/resources/applicationDubbo.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-66">
@@ -115,6 +116,11 @@
         <entry file="file://$PROJECT_DIR$/miaoshademo-server/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="197">
+=======
+        <entry file="file://$PROJECT_DIR$/miaoshademo-server/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-21">
+>>>>>>> benben
               <caret line="51" column="28" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
             </state>
           </provider>
@@ -290,16 +296,42 @@
             <path>
               <item name="miaoshademo" type="b2602c69:ProjectViewProjectNode" />
               <item name="miaoshademo" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="miaoshademo-interface" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="miaoshademo-server" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="miaoshademo" type="b2602c69:ProjectViewProjectNode" />
               <item name="miaoshademo" type="462c0819:PsiDirectoryNode" />
               <item name="miaoshademo-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="miaoshademo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miaoshademo" type="462c0819:PsiDirectoryNode" />
+              <item name="miaoshademo-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="miaoshademo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miaoshademo" type="462c0819:PsiDirectoryNode" />
+              <item name="miaoshademo-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+>>>>>>> benben
+            </path>
+            <path>
+              <item name="miaoshademo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miaoshademo" type="462c0819:PsiDirectoryNode" />
+              <item name="miaoshademo-server" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
             </path>
             <path>
               <item name="miaoshademo" type="b2602c69:ProjectViewProjectNode" />
@@ -326,6 +358,8 @@
               <item name="miaoshademo" type="b2602c69:ProjectViewProjectNode" />
               <item name="miaoshademo" type="462c0819:PsiDirectoryNode" />
               <item name="miaoshademo-server" type="462c0819:PsiDirectoryNode" />
+=======
+>>>>>>> benben
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -334,6 +368,7 @@
             <path>
               <item name="miaoshademo" type="b2602c69:ProjectViewProjectNode" />
               <item name="miaoshademo" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="miaoshademo-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -342,6 +377,8 @@
             <path>
               <item name="miaoshademo" type="b2602c69:ProjectViewProjectNode" />
               <item name="miaoshademo" type="462c0819:PsiDirectoryNode" />
+=======
+>>>>>>> benben
               <item name="miaoshademo-web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -379,6 +416,7 @@
               <item name="miaoshademo" type="462c0819:PsiDirectoryNode" />
               <item name="miaoshademo-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
@@ -407,6 +445,8 @@
               <item name="miaoshademo" type="462c0819:PsiDirectoryNode" />
               <item name="miaoshademo-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+=======
+>>>>>>> benben
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -458,6 +498,10 @@
         </RuleState>
       </list>
     </option>
+<<<<<<< HEAD
+=======
+    <option name="contentProportion" value="0.14220877" />
+>>>>>>> benben
   </component>
   <component name="RunManager" selected="Spring Boot.app-web">
     <configuration name="mybatis-generator" type="MavenRunConfiguration" factoryName="Maven">
@@ -656,7 +700,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="97011000" />
+=======
+    <option name="totallyTimeSpent" value="96127000" />
+>>>>>>> benben
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -691,8 +739,13 @@
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.3281493" />
       <window_info anchor="bottom" id="调试" order="13" sideWeight="0.49932975" weight="0.9844479" />
       <window_info anchor="bottom" id="Messages" order="14" weight="0.3281493" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Application Servers" order="15" weight="0.3281493" />
       <window_info anchor="bottom" id="Run Dashboard" order="16" weight="0.80559874" />
+=======
+      <window_info anchor="bottom" id="Application Servers" order="15" visible="true" weight="0.3281493" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="16" weight="1.0" />
+>>>>>>> benben
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -809,9 +862,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -901,9 +951,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -931,9 +978,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -941,9 +985,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1015,9 +1056,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="291">
           <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1035,10 +1073,17 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/miaoshademo-server/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
           <caret line="51" column="28" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
+=======
+    <entry file="file://$PROJECT_DIR$/miaoshademo-server/src/main/java/com/miaoshademo/server/service/serviceImpl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="32" column="8" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+>>>>>>> benben
         </state>
       </provider>
     </entry>
@@ -1080,6 +1125,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="32" column="8" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/miaoshademo-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21">
+          <caret line="51" column="28" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
         </state>
       </provider>
     </entry>
